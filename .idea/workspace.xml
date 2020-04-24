@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb59dff7-d8d1-435d-bc36-5ec82f0e0745" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\DeveloperTools\Repmaven" />
+        <option name="mavenHome" value="F:/DeveloperTools/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\DeveloperTools\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1awVoiVUXSwT938qujwn29ekKP9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.EasyExcelTest.simpleWrite">
+    <configuration name="EasyExcelTest.simpleWrite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EasyExcel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itzhouq.easyexcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itzhouq.easyexcel" />
+      <option name="MAIN_CLASS_NAME" value="cn.itzhouq.easyexcel.EasyExcelTest" />
+      <option name="METHOD_NAME" value="simpleWrite" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReadTest.testCellType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itzhouq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itzhouq" />
+      <option name="MAIN_CLASS_NAME" value="cn.itzhouq.ExcelReadTest" />
+      <option name="METHOD_NAME" value="testCellType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReadTest.testRead03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itzhouq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itzhouq" />
+      <option name="MAIN_CLASS_NAME" value="cn.itzhouq.ExcelReadTest" />
+      <option name="METHOD_NAME" value="testRead03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReadTest.testRead07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itzhouq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itzhouq" />
+      <option name="MAIN_CLASS_NAME" value="cn.itzhouq.ExcelReadTest" />
+      <option name="METHOD_NAME" value="testRead07" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formula.testForMula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itzhouq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itzhouq" />
+      <option name="MAIN_CLASS_NAME" value="cn.itzhouq.Formula" />
+      <option name="METHOD_NAME" value="testForMula" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="POI" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="POI" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EasyExcelTest.simpleWrite" />
+        <item itemvalue="JUnit.Formula.testForMula" />
+        <item itemvalue="JUnit.ExcelReadTest.testCellType" />
+        <item itemvalue="JUnit.ExcelReadTest.testRead07" />
+        <item itemvalue="JUnit.ExcelReadTest.testRead03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb59dff7-d8d1-435d-bc36-5ec82f0e0745" name="Default Changelist" comment="" />
+      <created>1587646819882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587646819882</updated>
+      <workItem from="1587646821311" duration="13448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="176" key="#Project_Structure" timestamp="1587646972277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="176" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587646972277" />
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom" timestamp="1587699056116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587699056116" />
+    <state width="1877" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587655994607" />
+    <state width="1323" height="124" key="GridCell.Tab.0.center" timestamp="1587699056116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587699056116" />
+    <state width="1877" height="304" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587655994607" />
+    <state width="1323" height="124" key="GridCell.Tab.0.left" timestamp="1587699056116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587699056116" />
+    <state width="1877" height="304" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587655994607" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right" timestamp="1587699056116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="124" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587699056116" />
+    <state width="1877" height="304" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587655994607" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1587696876214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587696876214" />
+    <state x="107" y="81" key="new project wizard" timestamp="1587696872734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="107" y="81" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587696872734" />
+    <state x="331" y="116" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587646955500" />
+  </component>
+</project>
